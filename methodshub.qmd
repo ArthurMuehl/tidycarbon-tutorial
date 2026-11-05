@@ -11,8 +11,6 @@ author:
       - name: Technical University of Munich
 bibliography: references.bib
 csl: apa.csl
-# image: img/cover.jpg
-# image-alt: Computer screen showing calculator app.
 format:
   html:
     toc: true
@@ -75,7 +73,7 @@ install.packages("tidyverse")
 
 Around n minutes
 
-## Usecase(s)
+## Use case(s)
 
 - Track and report time, energy, carbon emissions, and water usage for
   computational analysis tasks.
