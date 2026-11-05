@@ -3,12 +3,12 @@ title: "Getting Started with tidycarbon"
 subtitle: "Measuring the energy and emissions of R programs"
 author:
   - name:
-      given: Erika
-      family: Mustermann
-    email: erika.mustermann@example.com
-    orcid: 0000-0000-0000-0000
+      given: Sean
+      family: Hamilton-Palicki 
+    email: sean.palicki@tum.de
+    orcid: https://orcid.org/0000-0002-7797-9646
     affiliations:
-      - name: GESIS Leibniz Institute for the Social Sciences
+      - name: Technical University of Munich
 bibliography: references.bib
 csl: apa.csl
 # image: img/cover.jpg
