@@ -44,12 +44,14 @@ Sys.setenv(CODECARBON_LOG_LEVEL = "error")
 
 By the end of this tutorial, you will be able to
 
-1. AAAA
-2. BBBB
+1. Set up TidyCarbon and initialize local and remote trackers,
+2. Measure the time, energy, emissions and water use of R code, from whole scripts to single pipeline steps,
+3. Compare the energy use of alternative methods with carbon_bench(), and
+4. Estimate the energy use of LLM API calls.
 
 ## Target audience
 
-e.g. This tutorial is aimed at beginners with some knowledge in R. Optionally, prerequisites, e.g. Prior knowledge of R programming is required for this tutorial.
+This tutorial is aimed at social scientists who use R for computational analyses and want to measure their environmental impact. Prior knowledge of R and the tidyverse package is required. Basic familiarity with text analysis is helpful.
 
 ## Setting up the computational environment
 
