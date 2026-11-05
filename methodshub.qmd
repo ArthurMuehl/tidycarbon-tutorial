@@ -710,7 +710,7 @@ llm |>
 
 ## Conclusion
 
-Now you know how to do AAAA and BBBB.
+Now you know how to track the time, energy, emissions and water use of R code, from whole scripts to single pipeline steps and LLM API calls, and how to compare the energy use of alternative methods.
 
 ## Technical Details
 
